@@ -14,6 +14,10 @@ Thumbs.db
 
 # VSCode
 .vscode/*
+.idea/*
+*additional/
 
 # Scratch Files
 *_ignore*
+*/ignore/*
+*/*additional/*
