@@ -21,3 +21,4 @@ Thumbs.db
 *_ignore*
 */ignore/*
 */*additional/*
+__pycache__
