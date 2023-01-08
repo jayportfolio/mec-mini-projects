@@ -8,6 +8,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Too large
+mec-17.4.1-recommendation-systems-mini-project/data/combined_data.csv.zip
+
 # Jupyter files #
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
