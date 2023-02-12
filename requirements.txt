@@ -1,1 +1,4 @@
 pandas==1.0.1
+Jinja2==3.0.3 # was defaulting to 3.1.2
+tensorflow-cpu
+numpy==1.21.6 # was defaulting to 1.24.2
